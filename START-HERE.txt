@@ -1,0 +1,17 @@
+INCREDIBLE INDIA
+================
+
+Full instructions are in SETUP_GUIDE.md (open it in any text editor).
+
+The short version:
+
+  1. Install Node.js from https://nodejs.org  (take the LTS version)
+  2. Get a free API key from https://aistudio.google.com/apikey
+  3. Open a terminal in this folder
+  4. Run:  npm install
+  5. Copy .env.example to .env, and put your key in it
+  6. Run:  npm start
+  7. Open http://localhost:3000 in Chrome or Edge
+
+Do not double-click public/index.html — the AI features need the
+server started in step 6.
